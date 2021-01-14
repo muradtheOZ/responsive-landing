@@ -1,3 +1,48 @@
+/*font defination start*/
 body{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Bebas Neue', cursive;
 }
+
+#roboto-font a {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color:#3C3C3C;
+    
+}
+
+.responsive-navbar-brand{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    
+}
+.responsive-navbar-brand img{
+    width:15%
+}
+/*font defination end*/
+
+/*color dfining start*/
+.green-shade{
+    color: #A4BC46;
+}
+.blue-shade{
+    color: #363958;
+
+}
+.yellow-shade{
+    color:#FABE4C;
+}
+.green-bg{
+    background-color: #A4BC46;
+}
+/*color dfining End*/
+
+
+@media (max-width: 768px) { 
+    .responsive-navbar-brand{
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 700;
+        
+    }
+ }
+
+
