@@ -1,9 +1,9 @@
 /*font defination start*/
-body{
+body h1,h2,h3{
     font-family: 'Bebas Neue', cursive;
 }
 
-#roboto-font a {
+body{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     color:#3C3C3C;
@@ -43,6 +43,17 @@ body{
         font-weight: 700;
         
     }
+ }
+ div img{
+     width:549px;
+ }
+ div h1{
+  
+     font-size: 80px;
+     font-weight: 700;
+ }
+ .upper-img{
+   
  }
 
 
